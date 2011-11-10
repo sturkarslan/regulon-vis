@@ -1,0 +1,11 @@
+debuggroup 0.86s summary parsing karyotype and organizing ideograms
+debuggroup 1.19s summary applying global and local scaling
+debuggroup 1.25s summary allocating image, colors and brushes
+debuggroup 2.15s summary drawing highlights and ideograms
+debuggroup 3.52s summary processing links
+debuggroup 6.93s summary processing data tracks
+Processing text track - this might take a while
+If you have many labels or are using label_snuggle. Use '-debug_group text' to see progress.
+debuggroup 49.86s summary generating output
+created image at ./circos.png
+created image at ./circos.svg
