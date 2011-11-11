@@ -1,0 +1,5 @@
+chr - hsa1 hsa1 0 2014239 chr
+chr - hsa2 hsa2 0 191346 pNRC100
+chr - hsa3 hsa3 0 365425 pNRC200
+
+

@@ -1,0 +1,581 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="3000px" height="3000px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="ideograms">
+<path d="M 1499.997,320.000 A1180.000,1180.000 0.000 1,1 344.561,1260.500 L 324.977,1256.441 A1200.000,1200.000 0.000 1,0 1499.997,300.000 Z " style="stroke: none;   fill: rgb(0,0,0); " />
+<text x="2399.3" y="2619.5" style="fill: rgb(0,0,0); font-size: 31.2px; text-anchor: start" transform="rotate(50.9,2399.3,2619.5)">chr</text>
+<line x1="1500.0" y1="300.0" x2="1500.0" y2="288.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1505.8" y="283.0" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(270.0,1505.8,283.0)">0</text>
+<line x1="1514.6" y1="300.1" x2="1514.7" y2="293.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1529.3" y1="300.4" x2="1529.5" y2="293.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1543.9" y1="300.8" x2="1544.2" y2="293.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1558.6" y1="301.4" x2="1558.9" y2="294.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1573.2" y1="302.2" x2="1573.6" y2="295.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1587.8" y1="303.2" x2="1588.3" y2="296.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1602.4" y1="304.4" x2="1603.0" y2="297.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1617.0" y1="305.7" x2="1617.7" y2="298.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1631.5" y1="307.2" x2="1632.3" y2="300.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1646.1" y1="308.9" x2="1647.6" y2="297.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1653.9" y="292.8" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(277.0,1653.9,292.8)">50</text>
+<line x1="1660.6" y1="310.8" x2="1661.6" y2="303.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1675.1" y1="312.8" x2="1676.1" y2="305.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1689.6" y1="315.1" x2="1690.7" y2="308.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1704.0" y1="317.5" x2="1705.2" y2="310.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1718.5" y1="320.1" x2="1719.7" y2="313.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1732.9" y1="322.8" x2="1734.2" y2="315.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1747.2" y1="325.7" x2="1748.6" y2="318.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1761.5" y1="328.8" x2="1763.0" y2="322.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1775.8" y1="332.1" x2="1777.4" y2="325.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1790.0" y1="335.6" x2="1792.9" y2="323.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1800.1" y="320.6" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(284.0,1800.1,320.6)">100</text>
+<line x1="1804.2" y1="339.2" x2="1806.0" y2="332.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1818.4" y1="343.0" x2="1820.2" y2="336.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1832.5" y1="347.0" x2="1834.4" y2="340.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1846.5" y1="351.1" x2="1848.5" y2="344.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1860.5" y1="355.4" x2="1862.6" y2="348.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1874.4" y1="359.9" x2="1876.6" y2="353.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1888.3" y1="364.6" x2="1890.6" y2="357.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1902.2" y1="369.4" x2="1904.5" y2="362.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1915.9" y1="374.4" x2="1918.3" y2="367.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1929.6" y1="379.5" x2="1933.9" y2="368.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1941.5" y="365.9" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(291.0,1941.5,365.9)">150</text>
+<line x1="1943.3" y1="384.9" x2="1945.9" y2="378.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1956.8" y1="390.4" x2="1959.5" y2="383.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1970.4" y1="396.0" x2="1973.1" y2="389.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1983.8" y1="401.8" x2="1986.6" y2="395.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1997.2" y1="407.8" x2="2000.1" y2="401.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2010.5" y1="414.0" x2="2013.4" y2="407.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2023.7" y1="420.3" x2="2026.7" y2="414.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2036.8" y1="426.8" x2="2039.9" y2="420.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2049.9" y1="433.4" x2="2053.1" y2="427.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2062.8" y1="440.2" x2="2068.5" y2="429.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2075.9" y="427.9" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(298.0,2075.9,427.9)">200</text>
+<line x1="2075.7" y1="447.1" x2="2079.1" y2="441.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2088.5" y1="454.2" x2="2092.0" y2="448.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2101.3" y1="461.5" x2="2104.8" y2="455.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2113.9" y1="468.9" x2="2117.5" y2="462.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2126.4" y1="476.5" x2="2130.1" y2="470.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2138.9" y1="484.2" x2="2142.6" y2="478.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2151.2" y1="492.1" x2="2155.0" y2="486.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2163.5" y1="500.1" x2="2167.4" y2="494.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2175.6" y1="508.3" x2="2179.6" y2="502.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2187.7" y1="516.6" x2="2194.6" y2="506.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2202.2" y="506.0" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(305.0,2202.2,506.0)">250</text>
+<line x1="2199.6" y1="525.1" x2="2203.7" y2="519.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2211.5" y1="533.7" x2="2215.6" y2="528.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2223.2" y1="542.4" x2="2227.4" y2="536.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2234.9" y1="551.3" x2="2239.1" y2="545.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2246.4" y1="560.4" x2="2250.7" y2="554.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2257.8" y1="569.5" x2="2262.2" y2="564.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2269.1" y1="578.9" x2="2273.6" y2="573.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2280.3" y1="588.3" x2="2284.8" y2="583.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2291.3" y1="597.9" x2="2296.0" y2="592.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2302.3" y1="607.6" x2="2310.3" y2="598.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2317.9" y="598.9" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(312.0,2317.9,598.9)">300</text>
+<line x1="2313.1" y1="617.5" x2="2317.9" y2="612.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2323.8" y1="627.5" x2="2328.6" y2="622.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2334.4" y1="637.6" x2="2339.3" y2="632.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2344.9" y1="647.9" x2="2349.8" y2="642.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2355.2" y1="658.2" x2="2360.2" y2="653.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2365.4" y1="668.7" x2="2370.5" y2="663.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2375.5" y1="679.4" x2="2380.6" y2="674.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2385.5" y1="690.1" x2="2390.6" y2="685.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2395.3" y1="701.0" x2="2400.5" y2="696.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2405.0" y1="712.0" x2="2414.0" y2="704.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2421.6" y="705.1" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(319.0,2421.6,705.1)">350</text>
+<line x1="2414.5" y1="723.1" x2="2419.9" y2="718.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2423.9" y1="734.3" x2="2429.3" y2="729.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2433.2" y1="745.6" x2="2438.7" y2="741.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2442.4" y1="757.1" x2="2447.9" y2="752.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2451.4" y1="768.6" x2="2456.9" y2="764.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2460.2" y1="780.3" x2="2465.8" y2="776.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2468.9" y1="792.0" x2="2474.6" y2="787.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2477.5" y1="803.9" x2="2483.2" y2="799.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2485.9" y1="815.9" x2="2491.7" y2="811.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2494.2" y1="828.0" x2="2504.1" y2="821.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2511.5" y="823.3" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(325.9,2511.5,823.3)">400</text>
+<line x1="2502.3" y1="840.2" x2="2508.2" y2="836.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2510.3" y1="852.5" x2="2516.2" y2="848.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2518.1" y1="864.8" x2="2524.1" y2="861.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2525.8" y1="877.3" x2="2531.8" y2="873.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2533.3" y1="889.9" x2="2539.3" y2="886.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2540.7" y1="902.5" x2="2546.8" y2="899.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2547.9" y1="915.3" x2="2554.0" y2="911.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2555.0" y1="928.1" x2="2561.1" y2="924.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2561.9" y1="941.0" x2="2568.1" y2="937.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2568.6" y1="954.0" x2="2579.3" y2="948.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2586.4" y="951.4" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(332.9,2586.4,951.4)">450</text>
+<line x1="2575.2" y1="967.1" x2="2581.5" y2="964.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2581.6" y1="980.3" x2="2587.9" y2="977.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2587.9" y1="993.5" x2="2594.2" y2="990.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2594.0" y1="1006.8" x2="2600.4" y2="1004.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2599.9" y1="1020.2" x2="2606.3" y2="1017.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2605.7" y1="1033.7" x2="2612.1" y2="1031.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2611.3" y1="1047.2" x2="2617.8" y2="1044.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2616.7" y1="1060.8" x2="2623.3" y2="1058.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2622.0" y1="1074.5" x2="2628.6" y2="1072.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2627.1" y1="1088.2" x2="2638.4" y2="1084.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2645.1" y="1087.8" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(339.9,2645.1,1087.8)">500</text>
+<line x1="2632.1" y1="1102.0" x2="2638.7" y2="1099.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2636.8" y1="1115.8" x2="2643.5" y2="1113.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2641.4" y1="1129.7" x2="2648.1" y2="1127.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2645.9" y1="1143.7" x2="2652.6" y2="1141.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2650.1" y1="1157.7" x2="2656.9" y2="1155.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2654.2" y1="1171.8" x2="2661.0" y2="1169.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2658.2" y1="1185.9" x2="2664.9" y2="1184.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2661.9" y1="1200.0" x2="2668.7" y2="1198.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2665.5" y1="1214.2" x2="2672.3" y2="1212.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2668.9" y1="1228.5" x2="2680.6" y2="1225.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2686.7" y="1230.3" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(346.9,2686.7,1230.3)">550</text>
+<line x1="2672.1" y1="1242.8" x2="2678.9" y2="1241.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2675.2" y1="1257.1" x2="2682.0" y2="1255.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2678.0" y1="1271.5" x2="2684.9" y2="1270.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2680.7" y1="1285.8" x2="2687.6" y2="1284.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2683.3" y1="1300.3" x2="2690.2" y2="1299.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2685.6" y1="1314.7" x2="2692.5" y2="1313.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2687.8" y1="1329.2" x2="2694.7" y2="1328.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2689.8" y1="1343.7" x2="2696.7" y2="1342.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2691.6" y1="1358.3" x2="2698.6" y2="1357.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2693.2" y1="1372.8" x2="2705.2" y2="1371.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2710.7" y="1376.7" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(353.9,2710.7,1376.7)">600</text>
+<line x1="2694.7" y1="1387.4" x2="2701.7" y2="1386.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2696.0" y1="1402.0" x2="2703.0" y2="1401.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2697.1" y1="1416.6" x2="2704.1" y2="1416.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2698.0" y1="1431.2" x2="2705.0" y2="1430.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2698.8" y1="1445.8" x2="2705.8" y2="1445.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2699.3" y1="1460.5" x2="2706.3" y2="1460.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2699.7" y1="1475.1" x2="2706.7" y2="1474.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2700.0" y1="1489.7" x2="2707.0" y2="1489.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2700.0" y1="1504.4" x2="2707.0" y2="1504.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2699.8" y1="1519.0" x2="2711.8" y2="1519.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2716.7" y="1525.1" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(0.9,2716.7,1525.1)">650</text>
+<line x1="2699.5" y1="1533.7" x2="2706.5" y2="1533.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2699.0" y1="1548.3" x2="2706.0" y2="1548.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2698.3" y1="1562.9" x2="2705.3" y2="1563.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2697.5" y1="1577.6" x2="2704.5" y2="1578.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2696.5" y1="1592.2" x2="2703.4" y2="1592.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2695.2" y1="1606.8" x2="2702.2" y2="1607.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2693.8" y1="1621.3" x2="2700.8" y2="1622.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2692.3" y1="1635.9" x2="2699.2" y2="1636.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2690.5" y1="1650.4" x2="2697.5" y2="1651.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2688.6" y1="1665.0" x2="2700.5" y2="1666.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2704.6" y="1673.0" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(7.9,2704.6,1673.0)">700</text>
+<line x1="2686.5" y1="1679.5" x2="2693.4" y2="1680.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2684.2" y1="1693.9" x2="2691.1" y2="1695.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2681.8" y1="1708.4" x2="2688.7" y2="1709.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2679.1" y1="1722.8" x2="2686.0" y2="1724.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2676.3" y1="1737.1" x2="2683.2" y2="1738.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2673.4" y1="1751.5" x2="2680.2" y2="1753.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2670.2" y1="1765.8" x2="2677.0" y2="1767.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2666.9" y1="1780.1" x2="2673.7" y2="1781.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2663.4" y1="1794.3" x2="2670.1" y2="1796.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2659.7" y1="1808.4" x2="2671.3" y2="1811.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2674.6" y="1818.4" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(14.9,2674.6,1818.4)">750</text>
+<line x1="2655.8" y1="1822.6" x2="2662.6" y2="1824.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2651.8" y1="1836.7" x2="2658.5" y2="1838.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2647.6" y1="1850.7" x2="2654.3" y2="1852.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2643.2" y1="1864.7" x2="2649.9" y2="1866.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2638.7" y1="1878.6" x2="2645.4" y2="1880.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2634.0" y1="1892.5" x2="2640.6" y2="1894.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2629.1" y1="1906.3" x2="2635.7" y2="1908.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2624.1" y1="1920.0" x2="2630.6" y2="1922.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2618.9" y1="1933.7" x2="2625.4" y2="1936.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2613.5" y1="1947.3" x2="2624.6" y2="1951.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2627.1" y="1959.0" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(21.9,2627.1,1959.0)">800</text>
+<line x1="2608.0" y1="1960.9" x2="2614.4" y2="1963.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2602.3" y1="1974.4" x2="2608.7" y2="1977.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2596.4" y1="1987.8" x2="2602.8" y2="1990.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2590.3" y1="2001.2" x2="2596.7" y2="2004.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2584.1" y1="2014.4" x2="2590.5" y2="2017.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2577.8" y1="2027.6" x2="2584.1" y2="2030.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2571.3" y1="2040.7" x2="2577.5" y2="2043.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2564.6" y1="2053.8" x2="2570.8" y2="2057.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2557.7" y1="2066.7" x2="2563.9" y2="2070.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2550.8" y1="2079.6" x2="2561.3" y2="2085.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2562.8" y="2092.8" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(28.9,2562.8,2092.8)">850</text>
+<line x1="2543.6" y1="2092.4" x2="2549.7" y2="2095.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2536.3" y1="2105.1" x2="2542.3" y2="2108.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2528.8" y1="2117.7" x2="2534.8" y2="2121.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2521.2" y1="2130.2" x2="2527.2" y2="2133.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2513.5" y1="2142.6" x2="2519.4" y2="2146.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2505.5" y1="2154.9" x2="2511.4" y2="2158.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2497.5" y1="2167.1" x2="2503.3" y2="2171.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2489.2" y1="2179.3" x2="2495.0" y2="2183.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2480.9" y1="2191.3" x2="2486.6" y2="2195.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2472.4" y1="2203.2" x2="2482.1" y2="2210.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2482.8" y="2217.8" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(35.9,2482.8,2217.8)">900</text>
+<line x1="2463.7" y1="2215.0" x2="2469.3" y2="2219.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2454.9" y1="2226.7" x2="2460.5" y2="2231.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2446.0" y1="2238.3" x2="2451.5" y2="2242.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2436.9" y1="2249.8" x2="2442.4" y2="2254.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2427.7" y1="2261.2" x2="2433.1" y2="2265.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2418.3" y1="2272.5" x2="2423.7" y2="2277.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2408.8" y1="2283.6" x2="2414.1" y2="2288.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2399.2" y1="2294.6" x2="2404.4" y2="2299.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2389.4" y1="2305.6" x2="2394.6" y2="2310.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2379.5" y1="2316.4" x2="2388.3" y2="2324.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2388.1" y="2332.1" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(42.9,2388.1,2332.1)">950</text>
+<line x1="2369.5" y1="2327.0" x2="2374.6" y2="2331.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2359.3" y1="2337.6" x2="2364.4" y2="2342.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2349.1" y1="2348.0" x2="2354.0" y2="2352.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2338.6" y1="2358.3" x2="2343.5" y2="2363.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2328.1" y1="2368.5" x2="2332.9" y2="2373.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2317.4" y1="2378.5" x2="2322.2" y2="2383.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2306.7" y1="2388.4" x2="2311.4" y2="2393.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2295.8" y1="2398.2" x2="2300.4" y2="2403.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2284.7" y1="2407.8" x2="2289.3" y2="2413.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2273.6" y1="2417.4" x2="2281.3" y2="2426.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2279.8" y="2434.3" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(49.9,2279.8,2434.3)">1000</text>
+<line x1="2262.3" y1="2426.7" x2="2266.8" y2="2432.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2251.0" y1="2436.0" x2="2255.4" y2="2441.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2239.5" y1="2445.1" x2="2243.8" y2="2450.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2227.9" y1="2454.0" x2="2232.2" y2="2459.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2216.2" y1="2462.8" x2="2220.4" y2="2468.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2204.4" y1="2471.5" x2="2208.5" y2="2477.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2192.5" y1="2480.0" x2="2196.5" y2="2485.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2180.5" y1="2488.4" x2="2184.5" y2="2494.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2168.4" y1="2496.6" x2="2172.3" y2="2502.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2156.2" y1="2504.7" x2="2162.7" y2="2514.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2160.3" y="2522.3" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(56.9,2160.3,2522.3)">1050</text>
+<line x1="2143.8" y1="2512.7" x2="2147.6" y2="2518.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2131.4" y1="2520.4" x2="2135.1" y2="2526.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2118.9" y1="2528.1" x2="2122.5" y2="2534.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2106.3" y1="2535.5" x2="2109.9" y2="2541.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2093.7" y1="2542.9" x2="2097.1" y2="2548.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2080.9" y1="2550.0" x2="2084.3" y2="2556.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2068.0" y1="2557.0" x2="2071.3" y2="2563.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2055.1" y1="2563.9" x2="2058.3" y2="2570.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2042.1" y1="2570.6" x2="2045.2" y2="2576.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2029.0" y1="2577.1" x2="2034.2" y2="2587.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="2030.9" y="2595.1" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(63.8,2030.9,2595.1)">1100</text>
+<line x1="2015.8" y1="2583.5" x2="2018.8" y2="2589.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="2002.5" y1="2589.7" x2="2005.4" y2="2596.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1989.2" y1="2595.8" x2="1992.0" y2="2602.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1975.8" y1="2601.7" x2="1978.5" y2="2608.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1962.3" y1="2607.4" x2="1965.0" y2="2613.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1948.7" y1="2612.9" x2="1951.3" y2="2619.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1935.1" y1="2618.3" x2="1937.7" y2="2624.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1921.4" y1="2623.6" x2="1923.9" y2="2630.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1907.7" y1="2628.6" x2="1910.1" y2="2635.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1893.9" y1="2633.5" x2="1897.8" y2="2644.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1893.6" y="2651.6" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(70.8,1893.6,2651.6)">1150</text>
+<line x1="1880.0" y1="2638.2" x2="1882.2" y2="2644.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1866.1" y1="2642.8" x2="1868.2" y2="2649.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1852.1" y1="2647.2" x2="1854.2" y2="2653.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1838.1" y1="2651.4" x2="1840.1" y2="2658.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1824.0" y1="2655.4" x2="1825.9" y2="2662.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1809.9" y1="2659.3" x2="1811.7" y2="2666.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1795.7" y1="2663.0" x2="1797.4" y2="2669.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1781.5" y1="2666.5" x2="1783.1" y2="2673.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1767.2" y1="2669.9" x2="1768.8" y2="2676.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1752.9" y1="2673.0" x2="1755.5" y2="2684.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1750.5" y="2690.9" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(77.8,1750.5,2690.9)">1200</text>
+<line x1="1738.6" y1="2676.0" x2="1740.0" y2="2682.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1724.2" y1="2678.9" x2="1725.6" y2="2685.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1709.8" y1="2681.5" x2="1711.1" y2="2688.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1695.4" y1="2684.0" x2="1696.5" y2="2690.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1680.9" y1="2686.3" x2="1682.0" y2="2693.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1666.4" y1="2688.4" x2="1667.4" y2="2695.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1651.9" y1="2690.3" x2="1652.8" y2="2697.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1637.4" y1="2692.1" x2="1638.2" y2="2699.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1622.8" y1="2693.7" x2="1623.5" y2="2700.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1608.3" y1="2695.1" x2="1609.3" y2="2707.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1603.7" y="2712.6" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: start" transform="rotate(84.8,1603.7,2712.6)">1250</text>
+<line x1="1593.7" y1="2696.3" x2="1594.2" y2="2703.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1579.1" y1="2697.4" x2="1579.5" y2="2704.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1564.4" y1="2698.3" x2="1564.8" y2="2705.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1549.8" y1="2699.0" x2="1550.1" y2="2706.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1535.2" y1="2699.5" x2="1535.4" y2="2706.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1520.5" y1="2699.8" x2="1520.6" y2="2706.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1505.9" y1="2700.0" x2="1505.9" y2="2707.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1491.2" y1="2700.0" x2="1491.2" y2="2707.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1476.6" y1="2699.8" x2="1476.5" y2="2706.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1461.9" y1="2699.4" x2="1461.6" y2="2711.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1467.6" y="2716.6" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(271.8,1467.6,2716.6)">1300</text>
+<line x1="1447.3" y1="2698.8" x2="1447.0" y2="2705.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1432.7" y1="2698.1" x2="1432.3" y2="2705.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1418.1" y1="2697.2" x2="1417.6" y2="2704.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1403.5" y1="2696.1" x2="1402.9" y2="2703.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1388.9" y1="2694.8" x2="1388.2" y2="2701.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1374.3" y1="2693.4" x2="1373.6" y2="2700.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1359.7" y1="2691.8" x2="1358.9" y2="2698.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1345.2" y1="2690.0" x2="1344.3" y2="2696.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1330.7" y1="2688.0" x2="1329.7" y2="2694.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1316.2" y1="2685.8" x2="1314.4" y2="2697.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1319.7" y="2703.6" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(278.8,1319.7,2703.6)">1350</text>
+<line x1="1301.7" y1="2683.5" x2="1300.6" y2="2690.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1287.3" y1="2681.0" x2="1286.1" y2="2687.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1272.9" y1="2678.3" x2="1271.6" y2="2685.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1258.6" y1="2675.5" x2="1257.1" y2="2682.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1244.2" y1="2672.4" x2="1242.7" y2="2679.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1229.9" y1="2669.2" x2="1228.4" y2="2676.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1215.7" y1="2665.8" x2="1214.0" y2="2672.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1201.5" y1="2662.3" x2="1199.7" y2="2669.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1187.3" y1="2658.5" x2="1185.5" y2="2665.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1173.2" y1="2654.6" x2="1169.9" y2="2666.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1174.5" y="2672.7" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(285.8,1174.5,2672.7)">1400</text>
+<line x1="1159.1" y1="2650.6" x2="1157.1" y2="2657.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1145.1" y1="2646.3" x2="1143.0" y2="2653.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1131.2" y1="2641.9" x2="1129.0" y2="2648.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1117.2" y1="2637.3" x2="1115.0" y2="2644.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1103.4" y1="2632.6" x2="1101.1" y2="2639.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1089.6" y1="2627.6" x2="1087.2" y2="2634.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1075.9" y1="2622.5" x2="1073.4" y2="2629.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1062.2" y1="2617.3" x2="1059.6" y2="2623.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1048.6" y1="2611.9" x2="1046.0" y2="2618.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1035.1" y1="2606.3" x2="1030.4" y2="2617.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1034.1" y="2624.3" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(292.8,1034.1,2624.3)">1450</text>
+<line x1="1021.6" y1="2600.5" x2="1018.8" y2="2606.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1008.2" y1="2594.6" x2="1005.3" y2="2601.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="994.9" y1="2588.5" x2="991.9" y2="2594.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="981.6" y1="2582.3" x2="978.6" y2="2588.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="968.5" y1="2575.9" x2="965.4" y2="2582.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="955.4" y1="2569.3" x2="952.2" y2="2575.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="942.4" y1="2562.6" x2="939.1" y2="2568.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="929.4" y1="2555.7" x2="926.1" y2="2561.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="916.6" y1="2548.6" x2="913.2" y2="2554.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="903.8" y1="2541.4" x2="897.9" y2="2551.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="900.7" y="2559.2" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(299.8,900.7,2559.2)">1500</text>
+<line x1="891.2" y1="2534.1" x2="887.6" y2="2540.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="878.6" y1="2526.6" x2="875.0" y2="2532.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="866.1" y1="2518.9" x2="862.4" y2="2524.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="853.7" y1="2511.1" x2="849.9" y2="2517.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="841.4" y1="2503.1" x2="837.6" y2="2509.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="829.2" y1="2495.0" x2="825.3" y2="2500.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="817.1" y1="2486.8" x2="813.2" y2="2492.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="805.1" y1="2478.4" x2="801.1" y2="2484.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="793.3" y1="2469.8" x2="789.1" y2="2475.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="781.5" y1="2461.1" x2="774.3" y2="2470.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="776.2" y="2478.4" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(306.8,776.2,2478.4)">1550</text>
+<line x1="769.8" y1="2452.3" x2="765.5" y2="2457.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="758.2" y1="2443.3" x2="753.9" y2="2448.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="746.8" y1="2434.2" x2="742.4" y2="2439.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="735.4" y1="2424.9" x2="731.0" y2="2430.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="724.2" y1="2415.5" x2="719.7" y2="2420.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="713.1" y1="2406.0" x2="708.5" y2="2411.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="702.1" y1="2396.3" x2="697.4" y2="2401.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="691.2" y1="2386.5" x2="686.5" y2="2391.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="680.4" y1="2376.5" x2="675.7" y2="2381.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="669.8" y1="2366.5" x2="661.5" y2="2375.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="662.5" y="2383.0" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(313.8,662.5,2383.0)">1600</text>
+<line x1="659.3" y1="2356.3" x2="654.4" y2="2361.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="648.9" y1="2346.0" x2="643.9" y2="2350.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="638.6" y1="2335.5" x2="633.6" y2="2340.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="628.5" y1="2324.9" x2="623.4" y2="2329.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="618.5" y1="2314.2" x2="613.4" y2="2319.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="608.6" y1="2303.4" x2="603.4" y2="2308.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="598.9" y1="2292.5" x2="593.6" y2="2297.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="589.3" y1="2281.4" x2="584.0" y2="2286.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="579.8" y1="2270.2" x2="574.5" y2="2274.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="570.5" y1="2259.0" x2="561.2" y2="2266.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="561.2" y="2274.5" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(320.8,561.2,2274.5)">1650</text>
+<line x1="561.3" y1="2247.6" x2="555.8" y2="2251.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="552.2" y1="2236.0" x2="546.7" y2="2240.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="543.3" y1="2224.4" x2="537.7" y2="2228.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="534.6" y1="2212.7" x2="528.9" y2="2216.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="525.9" y1="2200.9" x2="520.3" y2="2204.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="517.5" y1="2188.9" x2="511.7" y2="2192.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="509.1" y1="2176.9" x2="503.3" y2="2180.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="500.9" y1="2164.7" x2="495.1" y2="2168.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="492.9" y1="2152.5" x2="487.0" y2="2156.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="485.0" y1="2140.1" x2="474.9" y2="2146.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="473.9" y="2154.4" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(327.8,473.9,2154.4)">1700</text>
+<line x1="477.3" y1="2127.7" x2="471.3" y2="2131.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="469.7" y1="2115.2" x2="463.7" y2="2118.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="462.2" y1="2102.6" x2="456.2" y2="2106.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="455.0" y1="2089.8" x2="448.9" y2="2093.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="447.9" y1="2077.0" x2="441.7" y2="2080.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="440.9" y1="2064.2" x2="434.7" y2="2067.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="434.1" y1="2051.2" x2="427.9" y2="2054.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="427.4" y1="2038.1" x2="421.2" y2="2041.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="420.9" y1="2025.0" x2="414.7" y2="2028.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="414.6" y1="2011.8" x2="403.8" y2="2016.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="401.9" y="2024.6" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(334.8,401.9,2024.6)">1750</text>
+<line x1="408.5" y1="1998.5" x2="402.1" y2="2001.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="402.4" y1="1985.2" x2="396.0" y2="1988.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="396.6" y1="1971.7" x2="390.2" y2="1974.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="390.9" y1="1958.2" x2="384.5" y2="1960.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="385.4" y1="1944.7" x2="378.9" y2="1947.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="380.1" y1="1931.0" x2="373.5" y2="1933.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="374.9" y1="1917.3" x2="368.3" y2="1919.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="369.9" y1="1903.6" x2="363.3" y2="1905.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="365.1" y1="1889.7" x2="358.4" y2="1892.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="360.4" y1="1875.9" x2="349.0" y2="1879.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="346.2" y="1887.0" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(341.7,346.2,1887.0)">1800</text>
+<line x1="355.9" y1="1861.9" x2="349.2" y2="1864.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="351.5" y1="1847.9" x2="344.8" y2="1850.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="347.4" y1="1833.9" x2="340.7" y2="1835.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="343.4" y1="1819.8" x2="336.6" y2="1821.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="339.6" y1="1805.7" x2="332.8" y2="1807.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="335.9" y1="1791.5" x2="329.1" y2="1793.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="332.5" y1="1777.2" x2="325.7" y2="1778.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="329.2" y1="1763.0" x2="322.3" y2="1764.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="326.0" y1="1748.7" x2="319.2" y2="1750.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="323.1" y1="1734.3" x2="311.3" y2="1736.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="307.6" y="1743.7" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(348.7,307.6,1743.7)">1850</text>
+<line x1="320.3" y1="1719.9" x2="313.4" y2="1721.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="317.7" y1="1705.5" x2="310.8" y2="1706.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="315.3" y1="1691.1" x2="308.4" y2="1692.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="313.1" y1="1676.6" x2="306.1" y2="1677.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="311.0" y1="1662.1" x2="304.1" y2="1663.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="309.1" y1="1647.6" x2="302.2" y2="1648.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="307.4" y1="1633.0" x2="300.4" y2="1633.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="305.9" y1="1618.5" x2="298.9" y2="1619.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="304.5" y1="1603.9" x2="297.5" y2="1604.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="303.3" y1="1589.3" x2="291.4" y2="1590.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="286.8" y="1596.7" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(355.7,286.8,1596.7)">1900</text>
+<line x1="302.3" y1="1574.7" x2="295.3" y2="1575.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="301.5" y1="1560.1" x2="294.5" y2="1560.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="300.9" y1="1545.4" x2="293.9" y2="1545.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="300.4" y1="1530.8" x2="293.4" y2="1531.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="300.1" y1="1516.1" x2="293.1" y2="1516.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="300.0" y1="1501.5" x2="293.0" y2="1501.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="300.1" y1="1486.8" x2="293.1" y2="1486.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="300.3" y1="1472.2" x2="293.3" y2="1472.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="300.8" y1="1457.6" x2="293.8" y2="1457.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="301.4" y1="1442.9" x2="289.4" y2="1442.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="284.1" y="1448.3" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(2.7,284.1,1448.3)">1950</text>
+<line x1="302.1" y1="1428.3" x2="295.2" y2="1427.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="303.1" y1="1413.7" x2="296.1" y2="1413.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="304.3" y1="1399.1" x2="297.3" y2="1398.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="305.6" y1="1384.5" x2="298.6" y2="1383.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="307.1" y1="1369.9" x2="300.1" y2="1369.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="308.7" y1="1355.4" x2="301.8" y2="1354.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="310.6" y1="1340.9" x2="303.7" y2="1339.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="312.6" y1="1326.4" x2="305.7" y2="1325.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="314.8" y1="1311.9" x2="307.9" y2="1310.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="317.2" y1="1297.4" x2="305.4" y2="1295.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="299.5" y="1300.2" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(9.7,299.5,1300.2)">2000</text>
+<line x1="319.8" y1="1283.0" x2="312.9" y2="1281.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="322.5" y1="1268.6" x2="315.7" y2="1267.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<path d="M 345.148,1257.683 A1180.000,1180.000 0.000 0,1 577.960,763.629 L 562.332,751.148 A1200.000,1200.000 0.000 0,0 325.575,1253.576 Z " style="stroke: none;   fill: rgb(253,141,60); " />
+<text x="196.1" y="898.3" style="fill: rgb(0,0,0); font-size: 31.2px; text-anchor: end" transform="rotate(25.2,196.1,898.3)">pNRC100</text>
+<line x1="325.6" y1="1253.6" x2="313.8" y2="1251.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="307.8" y="1255.7" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(11.9,307.8,1255.7)">0</text>
+<line x1="328.7" y1="1239.3" x2="321.8" y2="1237.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="331.9" y1="1225.0" x2="325.1" y2="1223.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="335.4" y1="1210.7" x2="328.6" y2="1209.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="339.0" y1="1196.6" x2="332.2" y2="1194.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="342.8" y1="1182.4" x2="336.0" y2="1180.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="346.8" y1="1168.3" x2="340.0" y2="1166.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="350.9" y1="1154.3" x2="344.2" y2="1152.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="355.2" y1="1140.3" x2="348.5" y2="1138.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="359.7" y1="1126.3" x2="353.0" y2="1124.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="364.3" y1="1112.4" x2="353.0" y2="1108.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="346.4" y="1112.4" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(18.8,346.4,1112.4)">50</text>
+<line x1="369.1" y1="1098.6" x2="362.5" y2="1096.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="374.1" y1="1084.8" x2="367.5" y2="1082.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="379.3" y1="1071.1" x2="372.7" y2="1068.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="384.6" y1="1057.5" x2="378.1" y2="1054.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="390.1" y1="1043.9" x2="383.6" y2="1041.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="395.7" y1="1030.4" x2="389.3" y2="1027.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="401.5" y1="1016.9" x2="395.1" y2="1014.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="407.5" y1="1003.6" x2="401.1" y2="1000.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="413.6" y1="990.3" x2="407.3" y2="987.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="419.9" y1="977.0" x2="409.1" y2="971.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="402.0" y="975.2" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(25.8,402.0,975.2)">100</text>
+<line x1="426.4" y1="963.9" x2="420.1" y2="960.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="433.0" y1="950.8" x2="426.8" y2="947.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="439.8" y1="937.9" x2="433.6" y2="934.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="446.8" y1="925.0" x2="440.6" y2="921.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="453.9" y1="912.1" x2="447.8" y2="908.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="461.1" y1="899.4" x2="455.0" y2="895.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="468.5" y1="886.8" x2="462.5" y2="883.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="476.1" y1="874.2" x2="470.1" y2="870.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="483.8" y1="861.8" x2="477.9" y2="858.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="491.7" y1="849.4" x2="481.6" y2="842.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="474.0" y="845.4" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(32.8,474.0,845.4)">150</text>
+<line x1="499.7" y1="837.2" x2="493.8" y2="833.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="507.8" y1="825.0" x2="502.0" y2="821.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="516.1" y1="813.0" x2="510.4" y2="809.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="524.6" y1="801.0" x2="518.9" y2="796.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="533.2" y1="789.2" x2="527.6" y2="785.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="542.0" y1="777.4" x2="536.4" y2="773.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="550.8" y1="765.8" x2="545.3" y2="761.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="559.9" y1="754.2" x2="554.4" y2="749.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<path d="M 579.759,761.383 A1180.000,1180.000 0.000 0,1 1497.120,320.004 L 1497.071,300.004 A1200.000,1200.000 0.000 0,0 564.161,748.864 Z " style="stroke: none;   fill: rgb(107,174,214); " />
+<text x="867.0" y="211.0" style="fill: rgb(0,0,0); font-size: 31.2px; text-anchor: end" transform="rotate(64.3,867.0,211.0)">pNRC200</text>
+<line x1="564.2" y1="748.9" x2="554.8" y2="741.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="547.3" y="742.7" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(38.8,547.3,742.7)">0</text>
+<line x1="573.4" y1="737.5" x2="568.0" y2="733.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="582.8" y1="726.2" x2="577.4" y2="721.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="592.3" y1="715.1" x2="587.0" y2="710.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="601.9" y1="704.1" x2="596.7" y2="699.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="611.7" y1="693.2" x2="606.5" y2="688.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="621.6" y1="682.4" x2="616.5" y2="677.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="631.7" y1="671.7" x2="626.6" y2="666.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="641.8" y1="661.2" x2="636.8" y2="656.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="652.1" y1="650.8" x2="647.2" y2="645.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="662.6" y1="640.5" x2="654.2" y2="631.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="646.6" y="632.4" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(45.7,646.6,632.4)">50</text>
+<line x1="673.1" y1="630.4" x2="668.3" y2="625.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="683.8" y1="620.3" x2="679.0" y2="615.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="694.6" y1="610.4" x2="689.9" y2="605.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="705.5" y1="600.7" x2="700.9" y2="595.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="716.6" y1="591.0" x2="712.0" y2="585.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="727.7" y1="581.5" x2="723.2" y2="576.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="739.0" y1="572.2" x2="734.5" y2="566.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="750.3" y1="563.0" x2="746.0" y2="557.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="761.8" y1="553.9" x2="757.5" y2="548.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="773.4" y1="545.0" x2="766.2" y2="535.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="758.3" y="535.2" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(52.7,758.3,535.2)">100</text>
+<line x1="785.2" y1="536.2" x2="781.0" y2="530.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="797.0" y1="527.5" x2="792.9" y2="521.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="808.9" y1="519.0" x2="804.9" y2="513.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="820.9" y1="510.6" x2="817.0" y2="504.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="833.0" y1="502.4" x2="829.2" y2="496.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="845.3" y1="494.4" x2="841.4" y2="488.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="857.6" y1="486.4" x2="853.8" y2="480.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="870.0" y1="478.7" x2="866.3" y2="472.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="882.5" y1="471.1" x2="878.9" y2="465.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="895.1" y1="463.6" x2="889.1" y2="453.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="881.2" y="452.0" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(59.7,881.2,452.0)">150</text>
+<line x1="907.8" y1="456.3" x2="904.4" y2="450.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="920.6" y1="449.1" x2="917.2" y2="443.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="933.5" y1="442.2" x2="930.2" y2="436.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="946.4" y1="435.3" x2="943.2" y2="429.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="959.5" y1="428.6" x2="956.3" y2="422.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="972.6" y1="422.1" x2="969.5" y2="415.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="985.8" y1="415.8" x2="982.8" y2="409.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="999.0" y1="409.6" x2="996.1" y2="403.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1012.4" y1="403.5" x2="1009.5" y2="397.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1025.8" y1="397.7" x2="1021.1" y2="386.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1013.8" y="384.3" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(66.7,1013.8,384.3)">200</text>
+<line x1="1039.3" y1="392.0" x2="1036.6" y2="385.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1052.8" y1="386.4" x2="1050.2" y2="379.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1066.5" y1="381.0" x2="1063.9" y2="374.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1080.2" y1="375.8" x2="1077.7" y2="369.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1093.9" y1="370.8" x2="1091.5" y2="364.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1107.7" y1="365.9" x2="1105.4" y2="359.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1121.6" y1="361.2" x2="1119.4" y2="354.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1135.5" y1="356.7" x2="1133.4" y2="350.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1149.5" y1="352.3" x2="1147.5" y2="345.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1163.5" y1="348.1" x2="1160.2" y2="336.6" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1153.2" y="333.4" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(73.7,1153.2,333.4)">250</text>
+<line x1="1177.6" y1="344.1" x2="1175.7" y2="337.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1191.8" y1="340.3" x2="1190.0" y2="333.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1205.9" y1="336.6" x2="1204.2" y2="329.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1220.1" y1="333.1" x2="1218.5" y2="326.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1234.4" y1="329.8" x2="1232.9" y2="322.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1248.7" y1="326.6" x2="1247.2" y2="319.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1263.1" y1="323.6" x2="1261.7" y2="316.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1277.4" y1="320.8" x2="1276.1" y2="313.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1291.8" y1="318.2" x2="1290.6" y2="311.3" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1306.3" y1="315.7" x2="1304.3" y2="303.9" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1297.8" y="299.9" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(80.7,1297.8,299.9)">300</text>
+<line x1="1320.7" y1="313.5" x2="1319.7" y2="306.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1335.2" y1="311.4" x2="1334.3" y2="304.4" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1349.8" y1="309.4" x2="1348.9" y2="302.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1364.3" y1="307.7" x2="1363.5" y2="300.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1378.9" y1="306.1" x2="1378.2" y2="299.2" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1393.4" y1="304.7" x2="1392.8" y2="297.8" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1408.0" y1="303.5" x2="1407.5" y2="296.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1422.6" y1="302.5" x2="1422.2" y2="295.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1437.3" y1="301.6" x2="1436.9" y2="294.7" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1451.9" y1="301.0" x2="1451.4" y2="289.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<text x="1445.5" y="284.2" style="fill: rgb(0,0,0); font-size: 20.8px; text-anchor: end" transform="rotate(87.7,1445.5,284.2)">350</text>
+<line x1="1466.5" y1="300.5" x2="1466.3" y2="293.5" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1481.2" y1="300.1" x2="1481.1" y2="293.1" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+<line x1="1495.8" y1="300.0" x2="1495.8" y2="293.0" style="stroke-width: 1.0; stroke: rgb(0,0,0); stroke-linecap: round;" />
+</g>
+</svg>
